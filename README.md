@@ -13,3 +13,9 @@ This project focuses on the extraction and removal of specific stop words—name
 In the heart of the Whispering Woods, where sunlight filtered through the dense canopy like golden threads, there lived a peculiar creature named Luma. Luma was no ordinary forest dweller; she was a luminescent fox with fur that shimmered like starlight and eyes that glowed like twin moons. The animals of the forest revered her, for she was said to be the guardian of the woods, a spirit born from the first beam of moonlight that ever touched the earth.
 # OUT PUT:
 ['the', 'of', 'like', 'a', '.', 'was', 'that', 'Luma', 'forest', 'she', 'In', 'heart', 'Whispering', 'Woods,', 'where', 'sunlight', 'filtered', 'through', 'dense', 'canopy', 'golden', 'threads,', 'there', 'lived', 'peculiar', 'creature', 'named', 'no', 'ordinary', 'dweller;', 'luminescent', 'fox', 'with', 'fur', 'shimmered', 'starlight', 'and', 'eyes', 'glowed', 'twin']
+
+
+
+
+![Screenshot (10)](https://github.com/user-attachments/assets/b3cf96c1-ca2f-4083-869f-fd3db973ea21)
+
